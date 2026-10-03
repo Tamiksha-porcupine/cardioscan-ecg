@@ -1,0 +1,13 @@
+ecg_images/
+records500/
+models/
+checkpoints/
+logs/
+uploads/
+__pycache__/
+*.pth
+*.pyc
+.env
+ptbxl_database.csv
+scp_statements.csv
+evaluation/git init
